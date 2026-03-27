@@ -1,42 +1,44 @@
-# Professional Profile | Mathematics & AI Development
+# Professional Profile | Mathematics & AI Engineering
 
 ## **About Me**
-I am an **MPhil in Mathematics** with **seven years of experience** as a University Lecturer. I specialize in the instruction of **Linear Algebra, Calculus, and Numerical Computing** for Computer Science departments.
+I am an **MPhil in Mathematics** with **seven years of experience** as a University Lecturer. I specialize in instructing **Linear Algebra, Calculus, Differential Equations, and Numerical Computing** within Computer Science departments.
 
-I am currently translating my academic expertise into **Data Engineering and Artificial Intelligence**. My goal is to leverage mathematical rigor to build high-integrity, scalable software solutions.
+I am currently translating my theoretical expertise into **AI Engineering**. My objective is to bridge the gap between high-level mathematical rigor and production-ready Artificial Intelligence solutions.
 
-* **Current Focus:** Data Engineering, Statistical Imputation, and Exploratory Data Analysis.
+* **Current Focus:** AI Data Pipelines, Statistical Imputation, and Gradient-based Optimization.
 * **Academic Background:** MPhil in Mathematics.
 * **Professional Background:** 7 Years Higher Education Lecturing.
 
 ---
 
-## **16-Week Career Transition Roadmap**
-I am executing a structured 16-week technical curriculum to bridge the gap between theoretical mathematics and production-level AI development.
+## **16-Week AI Engineering Roadmap**
+I am executing a structured 16-week technical curriculum to transition from academic mathematics to professional AI development.
 
-### **Phase 1: Numerical Logic & Foundations [COMPLETED]**
-* **Python Core:** Logic, OOP, and file handling.
-* **Numerical Computing:** Multidimensional arrays and broadcasting via **NumPy**.
-
-### **Phase 2: Data Mastery & EDA (Weeks 5-6) [IN PROGRESS]**
-* **Week 5 (Current):** Data cleaning and statistical imputation using **Pandas**.
+### **Phase 1: Foundations & Numerical Logic [COMPLETED]**
+* **Weeks 1-4:** Python Core (Logic, OOP) and Numerical Computing via **NumPy**.
+* **Week 5:** Data Cleaning and Statistical Imputation (Pandas).
     * **Project:** [University Data Analyzer](https://github.com/rohshayy/university-data-analyzer)
-* **Week 6:** Advanced EDA and handling messy, real-world datasets.
 
-### **Phase 3: Statistical Machine Learning (Weeks 7-8)**
-* Implementation of Regression, Classification, and Clustering using **Scikit-Learn**.
-* Algorithmic mapping of Gradient Descent and Hyperplanes to Python code.
+### **Phase 2: The AI Data Pipeline (Weeks 6-7) [IN PROGRESS]**
+* **Week 6 (Current):** Advanced Pandas for AI pre-processing and data engineering.
+* **Week 7:** Implementing Matrix Multiplications and Gradients in Code.
 
-### **Phase 4: Deep Learning & GenAI (Weeks 9-11)**
-* **Weeks 9-10:** Neural Network architecture and optimization.
-* **Week 11:** Transformers and Generative AI API integration (GPT/Llama).
+### **Phase 3: Machine Learning Foundations (Weeks 8-10)**
+* **Week 8:** Supervised Learning: Linear and Logistic Regression models.
+* **Week 9:** Ensemble Methods: Random Forests and XGBoost implementation.
+* **Week 10:** Model Evaluation: Precision, Recall, and F1-Score optimization.
 
-### **Phase 5: Production & Deployment (Weeks 12-16)**
-* End-to-end deployment, SQL integration, and portfolio finalization.
+### **Phase 4: Modern AI & Deep Learning (Weeks 11-16)**
+* **Week 11:** Building a Perceptron from scratch (Mathematical implementation).
+* **Week 12:** Professional Frameworks: **PyTorch** and **TensorFlow**.
+* **Week 13:** Computer Vision: Convolutional Neural Networks (CNNs).
+* **Week 14:** Natural Language Processing (NLP): RNNs and LSTMs.
+* **Week 15:** Generative AI: Integration with GPT-4 and Llama 3 APIs.
+* **Week 16:** Grand AI Project: Full-stack deployment and portfolio finalization.
 
 ---
 
 ## **Technical Skill Set**
-* **Mathematical Modeling:** Linear Algebra, Multi-variable Calculus, Differential Equations, Numerical Methods.
-* **Data Science Stack:** Python (Pandas, NumPy).
-* **Development Tools:** Git/GitHub, PyCharm, LaTeX, CSV Processing.
+* **Mathematical Engineering:** Linear Algebra, Multi-variable Calculus, Differential Equations, Numerical Methods.
+* **AI & Data Stack:** Python (Pandas, NumPy, Scikit-Learn).
+* **Development Tools:** Git/GitHub, PyCharm, LaTeX, CSV Data Processing.
