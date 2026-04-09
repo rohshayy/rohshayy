@@ -20,8 +20,9 @@ I am executing a structured 16-week technical curriculum to transition from acad
     * **Project:** [University Data Analyzer](https://github.com/rohshayy/university-data-analyzer)
 
 ### **Phase 2: The AI Data Pipeline (Weeks 6-7) [IN PROGRESS]**
-* **Week 6 (Current):** Advanced Pandas for AI pre-processing and data engineering.
+* **Week 6 :** Advanced Pandas for AI pre-processing and data engineering.
 * **Week 7:** Implementing Matrix Multiplications and Gradients in Code.
+   * **Project:**  [AI Data Integration Pipeline](https://github.com/rohshayy/ai-pipeline-data-integration)
 
 ### **Phase 3: Machine Learning Foundations (Weeks 8-10)**
 * **Week 8:** Supervised Learning: Linear and Logistic Regression models.
