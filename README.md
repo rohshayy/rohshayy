@@ -25,7 +25,8 @@ I am executing a structured 16-week technical curriculum to transition from acad
    * **Project:**  [Linear Math Engine](https://github.com/rohshayy/linear-math-engine)
 
 ### **Phase 3: Machine Learning Foundations (Weeks 8-10)**
-* **Week 8:** Supervised Learning: Linear and Logistic Regression models.
+* **Week 8:** Week 8: Proactive Student Risk Detection (Linear & Logistic Regression Architecture).
+    * **Project:**  [Student Sentinel AI](https://github.com/rohshayy/student-sentinel-ai))
 * **Week 9:** Ensemble Methods: Random Forests and XGBoost implementation.
 * **Week 10:** Model Evaluation: Precision, Recall, and F1-Score optimization.
 
