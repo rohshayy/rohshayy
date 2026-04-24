@@ -28,8 +28,11 @@ I am executing a structured 16-week technical curriculum to transition from acad
 ### **Phase 3: Machine Learning Foundations [IN PROGRESS]**
 * **Week 8:** Proactive Student Risk Detection (Linear & Logistic Regression Architecture).
     * **Project:** [Student Sentinel AI](https://github.com/rohshayy/student-sentinel-ai)
-* **Week 9:** *Awaiting Implementation...*
+* **Week 9:**  Risk Oracle: Predictive Loan Default Engine (Random Forest & GridSearch Optimization).
+    * **Project:**  [Risk Oracle](https://github.com/rohshayy/risk-oracle-loan-default)
 
+
+* **Week 10:** *Awaiting Implementation...*
 ---
 
 ## **Technical Skill Set**
