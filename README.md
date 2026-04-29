@@ -25,15 +25,15 @@ I am executing a structured 16-week technical curriculum to transition from acad
 * **Week 7:** Implementing Linear Regression from Scratch (Matrix Operations & Gradients).
     * **Project:** [Linear Math Engine](https://github.com/rohshayy/linear-math-engine)
 
-### **Phase 3: Machine Learning Foundations [IN PROGRESS]**
+### **Phase 3: Machine Learning Foundations [COMPLETED]**
 * **Week 8:** Proactive Student Risk Detection (Linear & Logistic Regression Architecture).
     * **Project:** [Student Sentinel AI](https://github.com/rohshayy/student-sentinel-ai)
 * **Week 9:**  Risk Oracle: Predictive Loan Default Engine (Random Forest & GridSearch Optimization).
     * **Project:**  [Risk Oracle](https://github.com/rohshayy/risk-oracle-loan-default)
+* **Week 10:**  Archetype-Engine: High-Dimensional Behavioral Segmentation (PCA & K-Means).
+    * **Project:**  [Archetype-Engine](https://github.com/rohshayy/archetype-engine-segmentation)
 
 
-* **Week 10:** *Awaiting Implementation...*
----
 
 ## **Technical Skill Set**
 * **Mathematical Engineering:** Linear Algebra, Multi-variable Calculus, Differential Equations, Numerical Methods.
