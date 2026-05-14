@@ -35,8 +35,10 @@ I am executing a structured 16-week technical curriculum to transition from acad
 
 ### **Phase 4: Modern AI & Deep Learning [IN PROGRESS]**
 * **Week 11:** KinetiCore: Multi-Modal Health Risk Classifier (Multi-Layer Perceptrons).
-    * **Project:** [KinetiCore](https://github.com/rohshayy/kineticore-health-risk-classifier)
-* **Week 12:** *Awaiting Implementation...*
+    * **Project:** [KinetiCore](https://github.com/rohshayy/kineticore-health-classifier)
+* **Week 12:** Script-Sentry: Forensic Stylometry AI (Biometric Verification via Deep Latent Representation).
+    * **Project:** [Script-Sentry](https://github.com/rohshayy/script-sentry-forensic-ai)
+* **Week 13:** *Awaiting Implementation...*
 
 
 ## **Technical Skill Set**
