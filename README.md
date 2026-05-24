@@ -38,10 +38,15 @@ I am executing a structured 16-week technical curriculum to transition from acad
     * **Project:** [KinetiCore](https://github.com/rohshayy/kineticore-health-risk-classifier)
 * **Week 12:** Script-Sentry: Forensic Stylometry AI (Biometric Verification via Deep Latent Representation).
     * **Project:** [Script-Sentry](https://github.com/rohshayy/script-sentry-forensic-ai)
-* **Week 13:** *Awaiting Implementation...*
+* **Week 13:** Visual-Sentry: Deep Convolutional Forensic Stylometry Engine (2D CNNs & Translation Invariance).
+    * **Project:** [Visual-Sentry](https://github.com/rohshayy/visual-sentry-cv-forensics)
+
+* **Week 13:** Visual-Sentry: Deep Convolutional Forensic Stylometry Engine (2D CNNs & Translation Invariance).
+    * **Project:** [Visual-Sentry](https://github.com/rohshayy/visual-sentry-cnn-forensics)
 
 
 ## **Technical Skill Set**
 * **Mathematical Engineering:** Linear Algebra, Multi-variable Calculus, Differential Equations, Numerical Methods.
-* **AI & Data Stack:** Python (Pandas, NumPy, Scikit-Learn).
-* **Development Tools:** Git/GitHub, PyCharm, LaTeX, CSV Data Processing.
+* **AI & Deep Learning Stack:** Python (PyTorch, Scikit-Learn, NumPy, Pandas).
+* **Core Architectures:** Multi-Layer Perceptrons (MLP), 2D Convolutional Neural Networks (CNN), Feature Extractors & Latent Space Embeddings.
+* **Development Tools:** Git/GitHub, PyCharm, LaTeX, CSV Data Processing, Tensor Normalization & Data Augmentation Pipelines.
