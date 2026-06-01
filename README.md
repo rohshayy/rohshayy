@@ -39,9 +39,6 @@ I am executing a structured 16-week technical curriculum to transition from acad
 * **Week 12:** Script-Sentry: Forensic Stylometry AI (Biometric Verification via Deep Latent Representation).
     * **Project:** [Script-Sentry](https://github.com/rohshayy/script-sentry-forensic-ai)
 * **Week 13:** Visual-Sentry: Deep Convolutional Forensic Stylometry Engine (2D CNNs & Translation Invariance).
-    * **Project:** [Visual-Sentry](https://github.com/rohshayy/visual-sentry-cv-forensics)
-
-* **Week 13:** Visual-Sentry: Deep Convolutional Forensic Stylometry Engine (2D CNNs & Translation Invariance).
     * **Project:** [Visual-Sentry](https://github.com/rohshayy/visual-sentry-cnn-forensics)
 
 
