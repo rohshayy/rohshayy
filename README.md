@@ -40,10 +40,13 @@ I am executing a structured 16-week technical curriculum to transition from acad
     * **Project:** [Script-Sentry](https://github.com/rohshayy/script-sentry-forensic-ai)
 * **Week 13:** Visual-Sentry: Deep Convolutional Forensic Stylometry Engine (2D CNNs & Translation Invariance).
     * **Project:** [Visual-Sentry](https://github.com/rohshayy/visual-sentry-cnn-forensics)
+* **Week 14:** TextSentryPlatform: Enterprise Multi-Intent AI Routing Engine (Router-Expert Architecture & LSTMs).
+    * **Project:** [TextSentryPlatform](https://github.com/rohshayy/TextSentryPlatform)
+* **Week 15:** *Awaiting Implementation...*
 
 
 ## **Technical Skill Set**
 * **Mathematical Engineering:** Linear Algebra, Multi-variable Calculus, Differential Equations, Numerical Methods.
 * **AI & Deep Learning Stack:** Python (PyTorch, Scikit-Learn, NumPy, Pandas).
-* **Core Architectures:** Multi-Layer Perceptrons (MLP), 2D Convolutional Neural Networks (CNN), Feature Extractors & Latent Space Embeddings.
-* **Development Tools:** Git/GitHub, PyCharm, LaTeX, CSV Data Processing, Tensor Normalization & Data Augmentation Pipelines.
+* **Core Architectures:** Multi-Layer Perceptrons (MLP), 2D Convolutional Neural Networks (CNN), Long Short-Term Memory Networks (LSTM), Mixture of Experts / Router-Expert Routing.
+* **Development Tools:** Git/GitHub, PyCharm, LaTeX, Object-Oriented System Design, Abstract Base Classes (ABC), Configuration-Driven Architectures.
