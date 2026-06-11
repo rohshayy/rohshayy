@@ -11,42 +11,57 @@ I am currently translating my theoretical expertise into **AI Engineering**. My 
 
 ---
 
-## **16-Week AI Engineering Roadmap**
-I am executing a structured 16-week technical curriculum to transition from academic mathematics to professional AI development.
+# 16-Week AI Engineering Roadmap
 
-### **Phase 1: Foundations & Numerical Logic [COMPLETED]**
-* **Weeks 1-4:** Python Core (Logic, OOP) and Numerical Computing via **NumPy**.
-* **Week 5:** Data Cleaning and Statistical Imputation (Pandas).
-    * **Project:** [University Data Analyzer](https://github.com/rohshayy/university-data-analyzer)
+I am a university mathematics lecturer and researcher who has executed a rigorous, intensive 16-week technical curriculum to bridge the gap between abstract mathematical theory and production-ready AI Engineering. This repository tracks my progression from first-principles numerical logic to containerized, asynchronous deep learning deployments.
 
-### **Phase 2: The AI Data Pipeline [COMPLETED]**
-* **Week 6:** Advanced Data Integration and Feature Scaling.
-    * **Project:** [AI Data Integration Pipeline](https://github.com/rohshayy/ai-pipeline-data-integration)
-* **Week 7:** Implementing Linear Regression from Scratch (Matrix Operations & Gradients).
-    * **Project:** [Linear Math Engine](https://github.com/rohshayy/linear-math-engine)
+---
 
-### **Phase 3: Machine Learning Foundations [COMPLETED]**
-* **Week 8:** Proactive Student Risk Detection (Linear & Logistic Regression Architecture).
-    * **Project:** [Student Sentinel AI](https://github.com/rohshayy/student-sentinel-ai)
-* **Week 9:**  Risk Oracle: Predictive Loan Default Engine (Random Forest & GridSearch Optimization).
-    * **Project:**  [Risk Oracle](https://github.com/rohshayy/risk-oracle-loan-default)
-* **Week 10:**  Archetype-Engine: High-Dimensional Behavioral Segmentation (PCA & K-Means).
-    * **Project:**  [Archetype-Engine](https://github.com/rohshayy/archetype-engine-segmentation)
+## 🏛️ Curriculum Architecture & Milestone Tracking
 
-### **Phase 4: Modern AI & Deep Learning [IN PROGRESS]**
-* **Week 11:** KinetiCore: Multi-Modal Health Risk Classifier (Multi-Layer Perceptrons).
-    * **Project:** [KinetiCore](https://github.com/rohshayy/kineticore-health-risk-classifier)
-* **Week 12:** Script-Sentry: Forensic Stylometry AI (Biometric Verification via Deep Latent Representation).
-    * **Project:** [Script-Sentry](https://github.com/rohshayy/script-sentry-forensic-ai)
-* **Week 13:** Visual-Sentry: Deep Convolutional Forensic Stylometry Engine (2D CNNs & Translation Invariance).
-    * **Project:** [Visual-Sentry](https://github.com/rohshayy/visual-sentry-cnn-forensics)
-* **Week 14:** TextSentryPlatform: Enterprise Multi-Intent AI Routing Engine (Router-Expert Architecture & LSTMs).
-    * **Project:** [TextSentryPlatform](https://github.com/rohshayy/TextSentryPlatform)
-* **Week 15:** *Awaiting Implementation...*
+### Phase 1: Foundations & Numerical Logic `[COMPLETED]`
+*   **Weeks 1-4:** Python Core (Advanced Logic, OOP) and Numerical Computing via NumPy.
+*   **Week 5:** Data Cleaning, Statistical Imputation, and Vector Normalization via Pandas.
+*   **Crowning Project:** `University Data Analyzer` — A robust pipeline for cleaning and normalizing complex, sparse academic datasets using automated Z-score outlier normalization.
 
+### Phase 2: The AI Data Pipeline `[COMPLETED]`
+*   **Week 6:** Advanced Data Integration, Multi-Source ETL, and Feature Scaling.
+*   **Week 7:** Implementing Linear Regression from Scratch using Matrix Algebra and Vectorized Gradients.
+*   **Crowning Project:** `Linear Math Engine` — Built entirely from scratch using only raw NumPy to map and observe deep gradient flow transformations without high-level framework wrappers.
 
-## **Technical Skill Set**
-* **Mathematical Engineering:** Linear Algebra, Multi-variable Calculus, Differential Equations, Numerical Methods.
-* **AI & Deep Learning Stack:** Python (PyTorch, Scikit-Learn, NumPy, Pandas).
-* **Core Architectures:** Multi-Layer Perceptrons (MLP), 2D Convolutional Neural Networks (CNN), Long Short-Term Memory Networks (LSTM), Mixture of Experts / Router-Expert Routing.
-* **Development Tools:** Git/GitHub, PyCharm, LaTeX, Object-Oriented System Design, Abstract Base Classes (ABC), Configuration-Driven Architectures.
+### Phase 3: Machine Learning Foundations `[COMPLETED]`
+*   **Week 8:** Proactive Student Risk Detection utilizing Linear and Logistic Regression architectures.
+*   **Week 9:** Risk Oracle: Predictive Loan Default Engine via Random Forest & GridSearchCV optimization.
+*   **Week 10:** Archetype-Engine: High-Dimensional Behavioral Segmentation via PCA and K-Means clustering.
+*   **Crowning Project:** `Risk Oracle` — A high-fidelity predictive engine mapping credit risk profiles by optimizing tree node purity via mathematical Gini Impurity and Entropy.
+
+### Phase 4: Modern AI & Deep Learning `[COMPLETED]`
+*   **Week 11:** KinetiCore: Multi-Modal Health Risk Classifier using custom Multi-Layer Perceptrons (MLPs).
+*   **Week 12:** Script-Sentry: Forensic Stylometry AI enforcing biometric verification via Deep Latent Represenations.
+*   **Week 13:** Visual-Sentry: Deep Convolutional Forensic Engine optimizing 2D CNNs and translation invariance.
+*   **Week 14:** TextSentryPlatform: Enterprise Multi-Intent AI Routing Engine using decupoled Router-Expert/LSTM architectures.
+*   **Crowning Project:** `TextSentryPlatform` — A highly efficient textual routing matrix that leverages an ultra-fast classification Gateway Network to dynamically stream inputs to isolated downstream expert neural networks.
+
+### Phase 5: Production Architecture & Deployment `[COMPLETED]`
+*   **Week 15:** Asynchronous API Development, Real-Time Inference Pipelines, and Microservice Containerization.
+*   **Crowning Project:** `TextSentry-API` — Elevated the deep learning backend into an industrial-grade Model-as-a-Service (MaaS) ecosystem. Wrapped the PyTorch core inside an asynchronous FastAPI web server architecture and containerized the system into an immutable, production-ready Docker deployment recipe.
+
+---
+
+## 🛠️ Technical Skill Set
+
+### 📐 Mathematical Engineering
+*   Numerical Linear Algebra & Matrix Decompositions
+*   Multivariable Calculus & Continuous Coordinate Optimization
+*   Ordinary & Partial Differential Equations (ODEs/PDEs)
+*   Numerical Methods & Spline Approximation Theory
+
+### 🧠 AI & Deep Learning Stack
+*   **Languages & Frameworks:** Python, PyTorch, Scikit-Learn, NumPy, Pandas, MATLAB
+*   **Core Architectures:** Multi-Layer Perceptrons (MLP), 2D Convolutional Neural Networks (CNN), Long Short-Term Memory Networks (LSTM), Router-Expert Frameworks (Mixture of Experts / MoE)
+*   **Pipeline Engineering:** Feature Engineering, Hyperparameter Tuning (GridSearchCV), Data Scaling, Dimensionality Reduction (PCA)
+
+### 🚀 Development & Deployment Tools
+*   **Backend & MLOps:** FastAPI, Uvicorn, Docker Containerization
+*   **Environment & Tools:** Git/GitHub, PyCharm, Linux Terminal, LaTeX
+*   **System Design:** Object-Oriented System Design, Abstract Base Classes (ABC), Configuration-Driven Architectures
