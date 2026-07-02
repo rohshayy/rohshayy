@@ -28,13 +28,13 @@ I leverage this rigorous theoretical foundation to architect high-performance, p
 The following production-ready repositories demonstrate end-to-end implementation of mathematical theory into scalable software systems.
 
 ### 1. Enterprise Multi-Intent AI Routing Engine
-*   **System Core:** [TextSentryPlatform](https://github.com/rohshayy/text-sentry-ai-platform)
+*   **System Core:** [TextSentryPlatform](https://github.com/rohshayy/TextSentryPlatform)
 *   **Architecture:** PyTorch LSTM + Router-Expert Gatekeeper Network
 *   **Production Edge:** High-speed tokenization preprocessing layer utilizing custom JSON configuration matrices. Built to decouple massive processing streams into isolated expert vaults, dramatically lowering computational overhead.
 *   **Deployment State:** Expanded into an active Model-as-a-Service (MaaS) ecosystem wrapped in an asynchronous FastAPI server and containerized via a production Docker recipe (`TextSentry-API`).
 
 ### 2. Translation-Invariant Computer Vision Forensics
-*   **System Core:** [Visual-Sentry](https://github.com/rohshayy/visual-sentry-cv-forensics)
+*   **System Core:** [Visual-Sentry](https://github.com/rohshayy/visual-sentry-cnn-forensics)
 *   **Architecture:** 2D Convolutional Neural Network (CNN) + Latent Space Topology
 *   **Production Edge:** Implements an element-wise vector minimum channel reduction step (`np.min`) for contrast optimization. Utilizes sparse connectivity and shared weights to achieve translation-invariant biometric stylometry verification, clearing a strict 92% Cosine Similarity guardrail. Includes hidden-layer activation maps for Explainable AI (XAI) verification.
 
