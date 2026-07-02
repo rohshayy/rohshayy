@@ -1,57 +1,54 @@
-# **Mathematical AI Architect | Deep Learning & MLOps Engineer**
+# **Mathematical AI Architect | Custom Deep Learning & Production Pipelines**
 
-I am an **MPhil Mathematician** with **seven years of experience** training Computer Science cohorts in advanced computational theory (Linear Algebra, Multivariable Calculus, and Numerical Methods). 
+## **Executive Profile**
+I am an **MPhil in Mathematics** and former University Lecturer with **seven years of experience** instructing Linear Algebra, Multivariable Calculus, Numerical Computing, and Differential Equations within Computer Science departments. 
 
-I specialize in bridging the gap between high-level mathematical rigor and production-grade, containerized Artificial Intelligence solutions. I build lightweight, mathematically optimized architectures designed to slash enterprise cloud compute costs and bypass heavy LLM dependencies.
+I leverage this rigorous theoretical foundation to architect high-performance, production-ready AI solutions. By replacing generic, costly black-box models with custom-engineered neural architectures and mathematically optimized data pipelines, I build systems designed for efficiency, scale, and deployment.
 
-* **Core Focus:** Neural Network Architecture, Custom Optimization Engines, NLP Routing, and Model-as-a-Service (MaaS) Deployment.
-* **Academic Blueprint:** MPhil in Mathematics (University Gold Medalist).
-* **Industrial Expertise:** Object-Oriented System Design, High-Performance Vectorization, and MLOps.
-
----
-
-## 🏛️ Production-Grade AI Portfolio
-
-Instead of relying solely on heavy third-party framework wrappers, my engineering philosophy prioritizes first-principles mathematical stability, zero-dependency reproducibility, and high-throughput deployment.
-
-### 🚀 [TextSentry-API | Enterprise Multi-Intent AI Routing Platform](https://github.com/rohshayy/text-sentry-ai-platform)
-* **The Architecture:** Designed a highly optimized **Router-Expert System** (mirroring modern Mixture-of-Experts patterns) that utilizes a high-speed classification Gateway Network to dynamically stream text payloads to isolated, downstream deep learning LSTM neural networks.
-* **The Business Impact:** Solves the cloud-cost bottleneck of modern enterprise text processing by utilizing low-latency, lightweight gatekeepers instead of massive, expensive LLMs.
-* **The Production Stack:** Built completely in **PyTorch**, wrapped inside an asynchronous **FastAPI** web server architecture, and fully containerized into an immutable, production-ready **Docker** recipe.
-
-### 👁️ [Visual-Sentry | Deep Convolutional Forensic Stylometry Engine](https://github.com/rohshayy/visual-sentry-cv-forensics)
-* **The Architecture:** Engineered a translation-invariant **2D Convolutional Neural Network (CNN)** for biometric handwriting and signature authentication. Implemented a custom element-wise vector minimum channel reduction step (`np.min`) to optimize stroke contrast and a Triple-Anchor enrollment strategy utilizing **128-dimensional Latent Space Bottleneck Projection**.
-* **The Math Engine:** Uses a vectorized **Cosine Similarity** verification loop with a strict 92% validation threshold guardrail to expose synthetic or computer-generated forgeries.
-* **Explainable AI (XAI):** Built a custom diagnostics pipeline that intercepts the model's forward pass at the first layer to map real-time activation channels, breaking the "black box" of deep learning.
-
-### 🛡️ [Script-Sentry | Forensic Biometric Verification Model](https://github.com/rohshayy/script-sentry-forensic-ai)
-* **The Architecture:** Developed a Deep Latent Representation network using a multi-layer bottleneck structure trained over the EMNIST dataset to map handwriting topology into a lower-dimensional manifold.
-* **The Math Engine:** Implemented a multi-anchor alignment protocol to calculate a user's **Mean Style Profile**, evaluating human biological "jitter" to enforce high-precision security authorization.
-
-### 📊 [Risk Oracle | Predictive Credit Risk Optimization Engine](https://github.com/rohshayy/risk-oracle-loan-default)
-* **The Architecture:** Built a predictive loan default engine using **Random Forest Classifiers** specifically optimized to tackle severe class imbalance (rare-event outliers).
-* **The Optimization:** Implemented automated hyperparameter optimization via `GridSearchCV` to locate the global maximum of model performance across stratified cross-validation folds. Evaluated metrics using **Precision-Recall Area Under the Curve (AUC)** and extracted Gini Importance rankings for regulatory transparency.
-
-### 📈 [Linear Math Engine | Core Gradient Descent Optimizer from Scratch](https://github.com/rohshayy/linear-math-engine)
-* **The Architecture:** Engineered a complete Linear Regression engine from first principles using only raw **NumPy**, completely isolated from high-level machine learning frameworks.
-* **The Math Engine:** Manually coded the hypothesis function, Mean Squared Error (MSE) cost algorithms, and exact partial derivatives (gradients) using matrix transposes and the calculus chain rule to strictly track gradient flow transformations.
+*   **Core Specialization:** Custom Deep Learning Networks, Vectorized Optimization, Geometric Data Manifolds, and Mixture-of-Experts (MoE) Architectures.
+*   **Production Deployment:** Model-as-a-Service (MaaS) pipelines via asynchronous architectures and containerized microservices.
 
 ---
 
 ## 🛠️ Technical Skill Set
 
-### 📐 Mathematical Engineering
-* Numerical Linear Algebra, Matrix Decompositions (SVD, Eigenvalues)
-* Multivariable Calculus & Continuous Coordinate Optimization
-* Partial Differential Equations (PDEs) & Stochastic Noise Modeling
-* Numerical Analysis & Spline Approximation Theory
+### 📐 Mathematical AI Engineering
+*   **Numerical Linear Algebra:** Matrix Decompositions, SVD, Eigenvector Topology, High-Dimensional Feature Orthogonalization.
+*   **Continuous Optimization:** Gradient Descent Variants, Custom Backpropagation Loops, Partial Derivative Vectorization.
+*   **Stochastic Modeling:** Distribution Modeling (Poisson, Gaussian, Uniform), Statistical Imputation, Latent Space Metric Analysis.
 
-### 🧠 AI & Deep Learning Stack
-* **Frameworks:** PyTorch, Scikit-Learn, NumPy, Pandas, MATLAB
-* **Architectures:** 2D Convolutional Neural Networks (CNN), Long Short-Term Memory Networks (LSTM), Multi-Layer Perceptrons (MLP), Mixture of Experts (MoE) Routing
-* **Pipelines:** Feature Engineering, Latent Space Embeddings, Dimensionality Reduction (PCA, SVD), Data Augmentation, Stratified Imbalanced Sampling
+### 🧠 Deep Learning & Production Stack
+*   **Frameworks & Core AI:** PyTorch, Scikit-Learn, NumPy, Pandas, MATLAB
+*   **Architectures:** Recurrent Neural Networks (LSTM), 2D Convolutional Neural Networks (CNN), Multi-Layer Perceptrons (MLP), Router-Expert Routing (Mixture of Experts / MoE)
+*   **MLOps & Deployment:** FastAPI, Uvicorn, Docker Containerization, Linux CLI
 
-### 🚀 Production & MLOps Tools
-* **Backend & Deployment:** FastAPI, Uvicorn, Docker Containerization, RESTful API Design
-* **Environment:** Git/GitHub, PyCharm, Linux/Unix Terminal, LaTeX
-* **Systems Architecture:** Object-Oriented System Design (OOP), Abstract Base Classes (ABC), Configuration-Driven Architectures (`json`)
+---
+
+## 🔬 Production-Grade Reference Architectures
+The following production-ready repositories demonstrate end-to-end implementation of mathematical theory into scalable software systems.
+
+### 1. Enterprise Multi-Intent AI Routing Engine
+*   **System Core:** [TextSentryPlatform](https://github.com/rohshayy/text-sentry-ai-platform)
+*   **Architecture:** PyTorch LSTM + Router-Expert Gatekeeper Network
+*   **Production Edge:** High-speed tokenization preprocessing layer utilizing custom JSON configuration matrices. Built to decouple massive processing streams into isolated expert vaults, dramatically lowering computational overhead.
+*   **Deployment State:** Expanded into an active Model-as-a-Service (MaaS) ecosystem wrapped in an asynchronous FastAPI server and containerized via a production Docker recipe (`TextSentry-API`).
+
+### 2. Translation-Invariant Computer Vision Forensics
+*   **System Core:** [Visual-Sentry](https://github.com/rohshayy/visual-sentry-cv-forensics)
+*   **Architecture:** 2D Convolutional Neural Network (CNN) + Latent Space Topology
+*   **Production Edge:** Implements an element-wise vector minimum channel reduction step (`np.min`) for contrast optimization. Utilizes sparse connectivity and shared weights to achieve translation-invariant biometric stylometry verification, clearing a strict 92% Cosine Similarity guardrail. Includes hidden-layer activation maps for Explainable AI (XAI) verification.
+
+### 3. Deep Latent Space Handwriting Biometrics
+*   **System Core:** [Script-Sentry](https://github.com/rohshayy/script-sentry-forensic-ai)
+*   **Architecture:** Multi-Layer Perceptron Bottleneck Network
+*   **Production Edge:** Employs manifold learning to project raw image matrices into a 128-dimensional latent vector. Features a Triple-Anchor Enrollment protocol that builds an arithmetic Mean Style Profile to perform zero-shot biometric authentication.
+
+### 4. High-Dimensional Behavioral Segmentation Pipeline
+*   **System Core:** [Archetype-Engine](https://github.com/rohshayy/archetype-engine-segmentation)
+*   **Architecture:** Singular Value Decomposition (SVD) PCA + Silhouette-Optimized K-Means
+*   **Production Edge:** Combats the "Curse of Dimensionality" by orthogonalizing 50+ correlated variables into independent principal components, using automated Silhouette Analysis to dynamically extract mathematical customer profiles without human guesswork.
+
+### 5. Predictive Risk Modeling & Imbalance Optimizers
+*   **System Core:** [Risk Oracle](https://github.com/rohshayy/risk-oracle-loan-default) & [Student Sentinel AI](https://github.com/rohshayy/student-sentinel-ai)
+*   **Architecture:** Random Forest Ensembles + Multi-Task Scikit-Learn Pipelines
+*   **Production Edge:** Tackles high-skew class imbalance through stratified dataset splits, automated global hyperparameter optimization (`GridSearchCV`), and precise Precision-Recall Curve AUC thresholding.
