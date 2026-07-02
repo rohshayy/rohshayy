@@ -13,14 +13,19 @@ I leverage this rigorous theoretical foundation to architect high-performance, p
 ## 🛠️ Technical Skill Set
 
 ### 📐 Mathematical AI Engineering
-*   **Numerical Linear Algebra:** Matrix Decompositions, SVD, Eigenvector Topology, High-Dimensional Feature Orthogonalization.
-*   **Continuous Optimization:** Gradient Descent Variants, Custom Backpropagation Loops, Partial Derivative Vectorization.
-*   **Stochastic Modeling:** Distribution Modeling (Poisson, Gaussian, Uniform), Statistical Imputation, Latent Space Metric Analysis.
+*   **Numerical Linear Algebra:** Matrix Decompositions (LU, QR, SVD), Eigenvector Topology, High-Dimensional Feature Orthogonalization.
+*   **Continuous Optimization:** Gradient Descent Variants (Adam, SGD), Custom Backpropagation Loops, Partial Derivative Vectorization.
+*   **Stochastic Modeling:** Data Distribution Simulation (Poisson, Gaussian, Uniform), Statistical Imputation, Latent Space Metric Analysis.
 
-### 🧠 Deep Learning & Production Stack
-*   **Frameworks & Core AI:** PyTorch, Scikit-Learn, NumPy, Pandas, MATLAB
-*   **Architectures:** Recurrent Neural Networks (LSTM), 2D Convolutional Neural Networks (CNN), Multi-Layer Perceptrons (MLP), Router-Expert Routing (Mixture of Experts / MoE)
-*   **MLOps & Deployment:** FastAPI, Uvicorn, Docker Containerization, Linux CLI
+### 🧠 Deep Learning & NLP Stack
+*   **Languages & Core AI:** Python (Expert), PyTorch, Scikit-Learn, NumPy, Pandas, MATLAB.
+*   **Neural Architectures:** Long Short-Term Memory Networks (LSTM), 2D Convolutional Neural Networks (CNN), Multi-Layer Perceptrons (MLP), Router-Expert Frameworks (Mixture of Experts / MoE).
+*   **Pipeline Engineering:** Feature Engineering, Automated Hyperparameter Tuning (GridSearchCV), Data Scaling (Z-Score Standardization), Dimensionality Reduction (PCA).
+
+### 🚀 Backend & MLOps Deployment
+*   **API & Infrastructure:** FastAPI, Uvicorn, Asynchronous Programming, RESTful API Design.
+*   **Containerization & DevOps:** Docker, Immutable Microservice Isolation, Containerized Deployment Recipes, Linux CLI, Bash Scripting.
+*   **System Architecture:** Object-Oriented System Design (OOP), Abstract Base Classes (ABC), Configuration-Driven Frameworks (JSON/Config Architectures), Git/GitHub version control.
 
 ---
 
