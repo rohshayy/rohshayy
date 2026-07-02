@@ -1,67 +1,57 @@
-# **Professional Profile | Mathematics & AI Engineering**
+# **Mathematical AI Architect | Deep Learning & MLOps Engineer**
 
-## **About Me**
-I am an **MPhil in Mathematics** with **seven years of experience** as a University Lecturer. I specialize in instructing **Linear Algebra, Calculus, Differential Equations, and Numerical Computing** within Computer Science departments.
+I am an **MPhil Mathematician** with **seven years of experience** training Computer Science cohorts in advanced computational theory (Linear Algebra, Multivariable Calculus, and Numerical Methods). 
 
-I am currently translating my theoretical expertise into **AI Engineering**. My objective is to bridge the gap between high-level mathematical rigor and production-ready Artificial Intelligence solutions.
+I specialize in bridging the gap between high-level mathematical rigor and production-grade, containerized Artificial Intelligence solutions. I build lightweight, mathematically optimized architectures designed to slash enterprise cloud compute costs and bypass heavy LLM dependencies.
 
-* **Academic Background:** MPhil in Mathematics.
-* **Professional Background:** 7 Years Higher Education Lecturing.
-* **Current Focus:** Statistical Machine Learning and Predictive Modeling.
-
----
-
-# 16-Week AI Engineering Roadmap
-
-I am a university mathematics lecturer and researcher who has executed a rigorous, intensive 16-week technical curriculum to bridge the gap between abstract mathematical theory and production-ready AI Engineering. This repository tracks my progression from first-principles numerical logic to containerized, asynchronous deep learning deployments.
+* **Core Focus:** Neural Network Architecture, Custom Optimization Engines, NLP Routing, and Model-as-a-Service (MaaS) Deployment.
+* **Academic Blueprint:** MPhil in Mathematics (University Gold Medalist).
+* **Industrial Expertise:** Object-Oriented System Design, High-Performance Vectorization, and MLOps.
 
 ---
 
-## 🏛️ Curriculum Architecture & Milestone Tracking
+## 🏛️ Production-Grade AI Portfolio
 
-### Phase 1: Foundations & Numerical Logic `[COMPLETED]`
-*   **Weeks 1-4:** Python Core (Advanced Logic, OOP) and Numerical Computing via NumPy.
-*   **Week 5:** Data Cleaning, Statistical Imputation, and Vector Normalization via Pandas.
-*   **Crowning Project:** `University Data Analyzer` — A robust pipeline for cleaning and normalizing complex, sparse academic datasets using automated Z-score outlier normalization.
+Instead of relying solely on heavy third-party framework wrappers, my engineering philosophy prioritizes first-principles mathematical stability, zero-dependency reproducibility, and high-throughput deployment.
 
-### Phase 2: The AI Data Pipeline `[COMPLETED]`
-*   **Week 6:** Advanced Data Integration, Multi-Source ETL, and Feature Scaling.
-*   **Week 7:** Implementing Linear Regression from Scratch using Matrix Algebra and Vectorized Gradients.
-*   **Crowning Project:** `Linear Math Engine` — Built entirely from scratch using only raw NumPy to map and observe deep gradient flow transformations without high-level framework wrappers.
+### 🚀 [TextSentry-API | Enterprise Multi-Intent AI Routing Platform](https://github.com/rohshayy/text-sentry-ai-platform)
+* **The Architecture:** Designed a highly optimized **Router-Expert System** (mirroring modern Mixture-of-Experts patterns) that utilizes a high-speed classification Gateway Network to dynamically stream text payloads to isolated, downstream deep learning LSTM neural networks.
+* **The Business Impact:** Solves the cloud-cost bottleneck of modern enterprise text processing by utilizing low-latency, lightweight gatekeepers instead of massive, expensive LLMs.
+* **The Production Stack:** Built completely in **PyTorch**, wrapped inside an asynchronous **FastAPI** web server architecture, and fully containerized into an immutable, production-ready **Docker** recipe.
 
-### Phase 3: Machine Learning Foundations `[COMPLETED]`
-*   **Week 8:** Proactive Student Risk Detection utilizing Linear and Logistic Regression architectures.
-*   **Week 9:** Risk Oracle: Predictive Loan Default Engine via Random Forest & GridSearchCV optimization.
-*   **Week 10:** Archetype-Engine: High-Dimensional Behavioral Segmentation via PCA and K-Means clustering.
-*   **Crowning Project:** `Risk Oracle` — A high-fidelity predictive engine mapping credit risk profiles by optimizing tree node purity via mathematical Gini Impurity and Entropy.
+### 👁️ [Visual-Sentry | Deep Convolutional Forensic Stylometry Engine](https://github.com/rohshayy/visual-sentry-cv-forensics)
+* **The Architecture:** Engineered a translation-invariant **2D Convolutional Neural Network (CNN)** for biometric handwriting and signature authentication. Implemented a custom element-wise vector minimum channel reduction step (`np.min`) to optimize stroke contrast and a Triple-Anchor enrollment strategy utilizing **128-dimensional Latent Space Bottleneck Projection**.
+* **The Math Engine:** Uses a vectorized **Cosine Similarity** verification loop with a strict 92% validation threshold guardrail to expose synthetic or computer-generated forgeries.
+* **Explainable AI (XAI):** Built a custom diagnostics pipeline that intercepts the model's forward pass at the first layer to map real-time activation channels, breaking the "black box" of deep learning.
 
-### Phase 4: Modern AI & Deep Learning `[COMPLETED]`
-*   **Week 11:** KinetiCore: Multi-Modal Health Risk Classifier using custom Multi-Layer Perceptrons (MLPs).
-*   **Week 12:** Script-Sentry: Forensic Stylometry AI enforcing biometric verification via Deep Latent Represenations.
-*   **Week 13:** Visual-Sentry: Deep Convolutional Forensic Engine optimizing 2D CNNs and translation invariance.
-*   **Week 14:** TextSentryPlatform: Enterprise Multi-Intent AI Routing Engine using decupoled Router-Expert/LSTM architectures.
-*   **Crowning Project:** `TextSentryPlatform` — A highly efficient textual routing matrix that leverages an ultra-fast classification Gateway Network to dynamically stream inputs to isolated downstream expert neural networks.
+### 🛡️ [Script-Sentry | Forensic Biometric Verification Model](https://github.com/rohshayy/script-sentry-forensic-ai)
+* **The Architecture:** Developed a Deep Latent Representation network using a multi-layer bottleneck structure trained over the EMNIST dataset to map handwriting topology into a lower-dimensional manifold.
+* **The Math Engine:** Implemented a multi-anchor alignment protocol to calculate a user's **Mean Style Profile**, evaluating human biological "jitter" to enforce high-precision security authorization.
 
-### Phase 5: Production Architecture & Deployment `[COMPLETED]`
-*   **Week 15:** Asynchronous API Development, Real-Time Inference Pipelines, and Microservice Containerization.
-*   **Crowning Project:** `TextSentry-API` — Elevated the deep learning backend into an industrial-grade Model-as-a-Service (MaaS) ecosystem. Wrapped the PyTorch core inside an asynchronous FastAPI web server architecture and containerized the system into an immutable, production-ready Docker deployment recipe.
+### 📊 [Risk Oracle | Predictive Credit Risk Optimization Engine](https://github.com/rohshayy/risk-oracle-loan-default)
+* **The Architecture:** Built a predictive loan default engine using **Random Forest Classifiers** specifically optimized to tackle severe class imbalance (rare-event outliers).
+* **The Optimization:** Implemented automated hyperparameter optimization via `GridSearchCV` to locate the global maximum of model performance across stratified cross-validation folds. Evaluated metrics using **Precision-Recall Area Under the Curve (AUC)** and extracted Gini Importance rankings for regulatory transparency.
+
+### 📈 [Linear Math Engine | Core Gradient Descent Optimizer from Scratch](https://github.com/rohshayy/linear-math-engine)
+* **The Architecture:** Engineered a complete Linear Regression engine from first principles using only raw **NumPy**, completely isolated from high-level machine learning frameworks.
+* **The Math Engine:** Manually coded the hypothesis function, Mean Squared Error (MSE) cost algorithms, and exact partial derivatives (gradients) using matrix transposes and the calculus chain rule to strictly track gradient flow transformations.
 
 ---
 
 ## 🛠️ Technical Skill Set
 
 ### 📐 Mathematical Engineering
-*   Numerical Linear Algebra & Matrix Decompositions
-*   Multivariable Calculus & Continuous Coordinate Optimization
-*   Ordinary & Partial Differential Equations (ODEs/PDEs)
-*   Numerical Methods & Spline Approximation Theory
+* Numerical Linear Algebra, Matrix Decompositions (SVD, Eigenvalues)
+* Multivariable Calculus & Continuous Coordinate Optimization
+* Partial Differential Equations (PDEs) & Stochastic Noise Modeling
+* Numerical Analysis & Spline Approximation Theory
 
 ### 🧠 AI & Deep Learning Stack
-*   **Languages & Frameworks:** Python, PyTorch, Scikit-Learn, NumPy, Pandas, MATLAB
-*   **Core Architectures:** Multi-Layer Perceptrons (MLP), 2D Convolutional Neural Networks (CNN), Long Short-Term Memory Networks (LSTM), Router-Expert Frameworks (Mixture of Experts / MoE)
-*   **Pipeline Engineering:** Feature Engineering, Hyperparameter Tuning (GridSearchCV), Data Scaling, Dimensionality Reduction (PCA)
+* **Frameworks:** PyTorch, Scikit-Learn, NumPy, Pandas, MATLAB
+* **Architectures:** 2D Convolutional Neural Networks (CNN), Long Short-Term Memory Networks (LSTM), Multi-Layer Perceptrons (MLP), Mixture of Experts (MoE) Routing
+* **Pipelines:** Feature Engineering, Latent Space Embeddings, Dimensionality Reduction (PCA, SVD), Data Augmentation, Stratified Imbalanced Sampling
 
-### 🚀 Development & Deployment Tools
-*   **Backend & MLOps:** FastAPI, Uvicorn, Docker Containerization
-*   **Environment & Tools:** Git/GitHub, PyCharm, Linux Terminal, LaTeX
-*   **System Design:** Object-Oriented System Design, Abstract Base Classes (ABC), Configuration-Driven Architectures
+### 🚀 Production & MLOps Tools
+* **Backend & Deployment:** FastAPI, Uvicorn, Docker Containerization, RESTful API Design
+* **Environment:** Git/GitHub, PyCharm, Linux/Unix Terminal, LaTeX
+* **Systems Architecture:** Object-Oriented System Design (OOP), Abstract Base Classes (ABC), Configuration-Driven Architectures (`json`)
